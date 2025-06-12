@@ -18,7 +18,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JorgeRan&theme=dracula)](https://git.io/streak-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRan&layout=compact&theme=dracula)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <!--

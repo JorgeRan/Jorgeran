@@ -9,7 +9,7 @@
  Thank you for visiting m README.md file here check this video out: https://www.youtube.com/watch?v=0ZGbIKd0XrM 
 -->
 
-* I am a Full Stack Developer Developer from Ottawa, Canada
+* I am a Full Stack Developer Developer from Ottawa, Canada 🇨🇦
 * Visit my [personal website](https://jorgeran.github.io/Personal-Website/) 
 * Techstack: `.js`, `.vue`, `.jsx`, `.ts`, `.css`, `.py`, `.dart`, `.html`, `.sql`, `.json`, `.firebase`
 

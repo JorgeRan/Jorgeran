@@ -1,6 +1,5 @@
 [![Jorge Rangel](https://github.com/JorgeRan/JorgeRan/blob/main/img/banner.png)](https://jorgeran.github.io/Personal-Website/)
 
-# Hey, I'm Jorge!
 
 [![Linkedin Badge](https://img.shields.io/badge/-C%C3%A9sar%20Álvarez%20Llaneza-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jorgerangel-t)](https://www.linkedin.com/in/jorgerangel-t)
 [![Gmail Badge](https://img.shields.io/badge/-cesaralvrzll-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jorge.rangeldelatejera@gmail.com)](mailto:jorge.rangeldelatejera@gmail.com)

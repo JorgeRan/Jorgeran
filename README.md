@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Rangel%20de%20la%20Tejera-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jorgerangel-t)](https://www.linkedin.com/in/jorgerangel-t)
-[![Gmail Badge](https://img.shields.io/badge/-jorge.rangeldelatejera-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jorge.rangeldelatejera@gmail.com)](mailto:jorge.rangeldelatejera@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jorgerangel.coding-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jorgerangel.coding@gmail.com)](mailto:jorgerangel.coding@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/JorgeRan?label=Follow&style=social)](https://github.com/JorgeRan) 
 
 <!--

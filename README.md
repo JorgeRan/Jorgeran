@@ -1,17 +1,17 @@
 [![Jorge Rangel](https://github.com/JorgeRan/JorgeRan/blob/main/img/banner.png)](https://jorgeran.github.io/Personal-Website/)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-C%C3%A9sar%20Álvarez%20Llaneza-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jorgerangel-t)](https://www.linkedin.com/in/jorgerangel-t)
-[![Gmail Badge](https://img.shields.io/badge/-cesaralvrzll-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jorge.rangeldelatejera@gmail.com)](mailto:jorge.rangeldelatejera@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jorge%20Rangel%20de%20la%20Tejera-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jorgerangel-t)](https://www.linkedin.com/in/jorgerangel-t)
+[![Gmail Badge](https://img.shields.io/badge/-jorge.rangeldelatejera-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jorge.rangeldelatejera@gmail.com)](mailto:jorge.rangeldelatejera@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/JorgeRan?label=Follow&style=social)](https://github.com/JorgeRan) 
 
 <!--
  Thank you for visiting m README.md file here check this video out: https://www.youtube.com/watch?v=0ZGbIKd0XrM 
 -->
 
-* I am a Frontend Developer from [Asturias, Spain](https://www.youtube.com/watch?v=g4dUHEkAL4M&ab_channel=TurismoAsturias) 🇪🇸
+* I am a Full Stack Developer Developer from Ottawa, Canada
 * Visit my [personal website](https://jorgeran.github.io/Personal-Website/) 
-* Techstack: `.js`, `.vue`, `.jsx`, `.ts`, `.css`, `.py` 
+* Techstack: `.js`, `.vue`, `.jsx`, `.ts`, `.css`, `.py`, `.dart`, `.html`, `.sql`, `.json`, `.firebase`
 
 
 ### Github Stats:

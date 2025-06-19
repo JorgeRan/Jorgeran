@@ -59,9 +59,9 @@
   <br />
   <p align="center">
     <h3>Previous Repos</h3>
-    <a href="https://github.com/JorgeRan/fitness_app">
+<!--     <a href="https://github.com/JorgeRan/fitness_app">
         <img src="https://github.com/JorgeRan/JorgeRan/blob/main/img/fitness_app.png" alt="JorgeRan fitnessApp" width="34%" />
-    </a>
+    </a> -->
     <a href="https://github.com/JorgeRan/Blog-API-Project">
         <img src="https://github.com/JorgeRan/JorgeRan/blob/main/img/blog_api.png" alt="JorgeRan blog" width="34%" />
     </a>

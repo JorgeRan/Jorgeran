@@ -1,4 +1,4 @@
-[![Jorge Rangel](https://github.com/JorgeRan/JorgeRan/blob/main/img/banner.png)](https://jorgeran.github.io/Personal-Website/)
+[![Jorge Rangel](https://github.com/JorgeRan/JorgeRan/blob/main/img/banner.png)](https://jorgeran.github.io/portfolio-website/)
 
 ## 📫 Connect with Me
 

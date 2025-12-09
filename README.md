@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jorgerangel.coding@gmail.com)
 
 * I am a Full Stack Developer Developer from Ottawa, Canada 🇨🇦
-* Visit my [personal website](https://jorgeran.github.io/Personal-Website/) 
+* Visit my [personal website](https://jorgeran.github.io/portfolio-website/) 
 * Techstack: `.js`, `.vue`, `.jsx`, `.ts`, `.css`, `.py`, `.dart`, `.html`, `.sql`, `.json`, `.firebase`
 
 
@@ -16,7 +16,7 @@
 
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=JorgeRan&theme=react&mode=weekly" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeRan&layout=compact&show_icons=true&theme=react" alt="JorgeRan github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JorgeRan&layout=compact&show_icons=false&theme=react" alt="JorgeRan github-readme-stats" width="48%" />
 </div>
 <br />
 <div>
@@ -78,4 +78,4 @@
 
 ---
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/).
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
